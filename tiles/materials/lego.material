@@ -1,7 +1,7 @@
 {
   "materialId" : 504,
   "materialName" : "lego",
-  "particleColor" : [226, 218, 117, 255],
+  "particleColor" : [255, 0, 0, 255],
   "itemDrop" : "lego",
   "description" : "Lego block.",
   "shortdescription" : "Lego block",
@@ -12,10 +12,10 @@
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
     "texture" : "lego.png",
-    "variants" : 2,
+    "variants" : 5,
     "lightTransparent" : false,
     "occludesBelow" : false,
     "multiColored" : false,
-    "zLevel" : 1720
+    "zLevel" : 0
   }
 }

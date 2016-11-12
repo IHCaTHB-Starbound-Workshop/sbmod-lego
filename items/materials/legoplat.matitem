@@ -1,0 +1,11 @@
+{
+  "itemName" : "legoplat",
+  "price" : 4,
+  "category" : "support",
+  "rarity" : "Common",
+  "inventoryIcon" : "lego.png",
+  "description" : "Lego platform",
+  "shortdescription" : "Lego platform",
+
+  "materialId" : 505
+}
