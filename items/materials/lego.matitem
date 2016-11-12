@@ -1,0 +1,11 @@
+{
+  "itemName" : "lego",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "lego.png",
+  "description" : "Lego block",
+  "shortdescription" : "Lego block",
+
+  "materialId" : 504
+}
