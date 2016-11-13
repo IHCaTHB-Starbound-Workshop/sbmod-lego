@@ -1,0 +1,7 @@
+{
+  "image" : "legoplat.png",
+  "frameGrid" : {
+    "size" : [64, 8],
+    "dimensions" : [2, 1]
+  }
+}

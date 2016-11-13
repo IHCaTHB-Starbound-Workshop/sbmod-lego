@@ -1,11 +1,11 @@
 {
-  "itemName" : "legoplat",
+  "itemName" : "legoplatflat",
   "price" : 4,
   "category" : "support",
   "rarity" : "Common",
   "inventoryIcon" : "legoplat.png",
   "description" : "Lego platform",
-  "shortdescription" : "Lego platform",
+  "shortdescription" : "Lego platform (flat)",
 
-  "materialId" : 505
+  "materialId" : 509
 }

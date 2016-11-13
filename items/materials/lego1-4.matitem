@@ -1,0 +1,11 @@
+{
+  "itemName" : "lego1-4",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "lego1-4.png",
+  "description" : "Lego block made of 4 quarter pieces.",
+  "shortdescription" : "Lego block (quarter)",
+
+  "materialId" : 508
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "lego1-2",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "lego1-2.png",
+  "description" : "Lego block made of two half pieces.",
+  "shortdescription" : "Lego block (half)",
+
+  "materialId" : 507
+}

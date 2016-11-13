@@ -1,8 +1,8 @@
 {
-  "materialId" : 504,
-  "materialName" : "lego",
+  "materialId" : 506,
+  "materialName" : "lego1-1",
   "particleColor" : [255, 0, 0, 255],
-  "itemDrop" : "lego",
+  "itemDrop" : "lego1-1",
   "description" : "Lego block.",
   "shortdescription" : "Lego block",
   "footstepSound" : "/sfx/blocks/footstep_rock.ogg",
@@ -11,8 +11,8 @@
   
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "lego.png",
-    "variants" : 13,
+    "texture" : "lego1-1.png",
+    "variants" : 10,
     "lightTransparent" : false,
     "occludesBelow" : false,
     "multiColored" : false,

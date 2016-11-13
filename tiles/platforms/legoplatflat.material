@@ -1,16 +1,16 @@
 {
-  "materialId" : 505,
-  "materialName" : "legoplat",
+  "materialId" : 509,
+  "materialName" : "legoplatflat",
   "collisionKind" : "platform",
-  "itemDrop" : "legoplat",
-  "shortdescription" : "Lego platform",
+  "itemDrop" : "legoplatflat",
+  "shortdescription" : "Lego platform (flat)",
   "description" : "A platform made from legos.",
   "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
   "category" : "Supports",
 
   "renderTemplate" : "/tiles/platformtemplate.config",
   "renderParameters" : {
-    "texture" : "legoplat.png:0",
+    "texture" : "legoplat.png:1",
     "variants" : 1,
     "lightTransparent" : true,
     "occludesBelow" : false,
