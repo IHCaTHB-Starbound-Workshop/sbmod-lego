@@ -2,8 +2,16 @@ material ids:
 
 504 lego
 505 legoplat
+506 lego1-1
+507 lego1-2
+508 lego1-4
+509 legoplatflat
 
 item ids:
 
 lego
 legoplat
+lego1-1
+lego1-2
+lego1-4
+legoplatflat
