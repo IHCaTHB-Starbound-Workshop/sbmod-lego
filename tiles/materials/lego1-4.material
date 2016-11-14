@@ -12,7 +12,7 @@
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
     "texture" : "lego1-4.png",
-    "variants" : 16,
+    "variants" : 96,
     "lightTransparent" : false,
     "occludesBelow" : false,
     "multiColored" : false,
