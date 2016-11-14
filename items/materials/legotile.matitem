@@ -1,0 +1,11 @@
+{
+  "itemName" : "legotile",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "legotile.png",
+  "description" : "Lego tile",
+  "shortdescription" : "Lego tile",
+
+  "materialId" : 510
+}
