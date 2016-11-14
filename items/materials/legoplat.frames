@@ -1,0 +1,6 @@
+{
+  "image" : "legoplat.png",
+  "frameList" : {
+    "flat" : [0, 1, 8, 3]
+  }
+}

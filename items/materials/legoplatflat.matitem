@@ -3,7 +3,7 @@
   "price" : 4,
   "category" : "support",
   "rarity" : "Common",
-  "inventoryIcon" : "legoplat.png",
+  "inventoryIcon" : "legoplat.png:flat",
   "description" : "Lego platform",
   "shortdescription" : "Lego platform (flat)",
 
