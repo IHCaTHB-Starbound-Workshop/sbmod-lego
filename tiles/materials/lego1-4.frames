@@ -1,0 +1,10 @@
+{
+  "image" : "lego.png",
+  "frameGrid" : {
+    "size" : [256, 216],
+    "dimensions" : [6, 1]
+  },
+  "frameList" : {
+    "flat" : [768, 0, 1536, 216]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "image" : "legotile.png",
+  "frameGrid" : {
+    "size" : [16, 216],
+    "dimensions" : [20, 1]
+  }
+}

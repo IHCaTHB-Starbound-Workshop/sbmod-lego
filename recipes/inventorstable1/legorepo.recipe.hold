@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "lego", "count" : 5 },
+    { "item" : "plapel", "count" : 8 },
+    { "item" : "ironbar", "count" : 2 }   
+  ],
+  "output" : {
+    "item" : "legorepo",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

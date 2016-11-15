@@ -4,7 +4,7 @@
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "legotile.png",
-  "description" : "Lego tile",
+  "description" : "Lego tile.",
   "shortdescription" : "Lego tile",
 
   "materialId" : 510

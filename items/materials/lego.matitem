@@ -4,8 +4,8 @@
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "lego.png",
-  "description" : "Lego block",
-  "shortdescription" : "Lego block",
+  "description" : "Lego block with random design.",
+  "shortdescription" : "Lego block (rand)",
 
   "materialId" : 504
 }

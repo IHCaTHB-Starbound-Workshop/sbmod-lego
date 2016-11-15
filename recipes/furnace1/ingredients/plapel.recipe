@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "liquidoil", "count" : 4 },
+    { "item" : "plantfiber", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "plapel",
+    "count" : 16
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

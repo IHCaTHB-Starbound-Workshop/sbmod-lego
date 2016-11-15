@@ -1,0 +1,11 @@
+{
+  "itemName" : "lego1-1var",
+  "price" : 4,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "lego.png",
+  "description" : "Lego block with many variations.",
+  "shortdescription" : "Lego block (var)",
+
+  "materialId" : 511
+}

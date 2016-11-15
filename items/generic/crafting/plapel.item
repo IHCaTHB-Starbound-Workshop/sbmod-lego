@@ -1,0 +1,10 @@
+{
+  "itemName" : "plapel",
+  "price" : 2,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "plapel.png",
+  "description" : "A plastic pellet.",
+  "shortdescription" : "Plastic Pellet",
+  "itemTags" : [ "reagent" ]
+}

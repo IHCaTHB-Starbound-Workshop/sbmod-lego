@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "plapel", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "legoplat",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "materials", "all" ]
+}

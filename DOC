@@ -6,6 +6,8 @@ material ids:
 507 lego1-2
 508 lego1-4
 509 legoplatflat
+510 legotile
+511 lego1-1var
 
 item ids:
 
@@ -15,3 +17,5 @@ lego1-1
 lego1-2
 lego1-4
 legoplatflat
+legotile
+lego1-1var
