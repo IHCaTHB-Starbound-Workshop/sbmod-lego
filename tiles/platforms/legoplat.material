@@ -1,5 +1,5 @@
 {
-  "materialId" : 505,
+  "materialId" : 510,
   "materialName" : "legoplat",
   "collisionKind" : "platform",
   "itemDrop" : "legoplat",

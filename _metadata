@@ -1,9 +1,13 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "]",
-  "friendlyName" : "",
+  "description" : "^#5aa9d6;High quality lego simulation within starbound.^reset;
+
+Plastic can be crafted at the furnace with some oil and some plant fiber. The blocks can be crafted at the workbench.
+
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "Lego Blocks!",
   "includes" : [],
-  "name" : ".IHC",
+  "name" : "LEGO.IHC",
   "requires" : [],
   "version" : "0.1"
 }

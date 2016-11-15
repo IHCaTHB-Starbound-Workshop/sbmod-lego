@@ -1,5 +1,5 @@
 {
-  "materialId" : 509,
+  "materialId" : 511,
   "materialName" : "legoplatflat",
   "collisionKind" : "platform",
   "itemDrop" : "legoplatflat",

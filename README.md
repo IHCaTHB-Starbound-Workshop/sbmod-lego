@@ -1,18 +1,4 @@
-##
-
-Code licensed under GPLv3, file included
-
-community.playstarbound.com/threads/124193/
-
-Consider permission granted to take over this mod IF
-
-I have been inactive for longer than 1 month
-AND
-a request is sent via message on the forums and a response takes longer than 1 week.
-
-Find all other pertinent information in the _metadata file.
-
-##
+# sbmod-lego
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 <br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">
