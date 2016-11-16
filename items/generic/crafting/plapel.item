@@ -1,10 +1,11 @@
 {
   "itemName" : "plapel",
-  "price" : 2,
+  "price" : 1,
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "plapel.png",
   "description" : "A plastic pellet.",
   "shortdescription" : "Plastic Pellet",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["legoplatflat","legoplat","legotile","lego1-4","lego1-2","lego1-1var","lego1-1","lego"]
 }
